@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_500">#1a237e</color>
+    <color name="red_200">#534bae</color>
+    <color name="red_700">#000051</color>
+    <color name="black">#FF000000</color>
+    <color name="tab">#1a237e</color>
+    <color name="texttab">#ffffff</color>
+</resources>
